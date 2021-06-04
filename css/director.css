@@ -1,0 +1,57 @@
+*{
+    background-color:  rgb(137, 79, 192);
+    color: rgb(226, 240, 140);
+    margin: 10px;
+    font-family: 'Jost', sans-serif;
+    border-radius: 7px;
+    text-shadow: 3px 3px 2px rgb(109, 14, 146); 
+    
+}
+
+
+.cuerpoDirector{
+    display: grid;
+    font-size: 21px;
+    grid-template-columns: 350px auto;
+    grid-column-gap: 85px;
+    text-align: justify;
+
+}
+
+.portadadirector{
+    
+    width: 120%;
+    
+}
+
+.portadadirector4{
+    width: 120%;
+}
+.portadadirector6{
+    width: 120%;
+}
+
+
+
+.navBar{
+    display: grid;
+    font-size: 25px;
+}
+
+.navBar li:hover{
+    cursor: pointer;
+    color: rgb(117, 114, 114);
+}
+
+.navBar ul{
+    list-style: none; 
+}
+
+.navBar li{
+    display: inline; 
+     float: right;
+}
+
+.navBar a {
+    text-decoration: none;
+}
