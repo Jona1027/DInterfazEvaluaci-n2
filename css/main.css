@@ -2,7 +2,7 @@
     background-color:  rgb(137, 79, 192);
     color: rgb(207, 231, 149);
     margin: 10px;
-    font-size: 25px;
+    font-size: 20px;
     font-family: 'Jost', sans-serif;
     text-shadow: 3px 3px 2px rgb(109, 14, 146);
     
@@ -12,7 +12,7 @@
 .cuerpo{
     display: grid;
     grid-template-columns: 350px auto;
-    grid-column-gap: 25px;
+    grid-column-gap: 20px;
     text-align: justify;
     
 }
@@ -72,3 +72,271 @@
 
 
 
+.cuerpoReparto{
+    display: grid;
+    font-size: 10px;
+    grid-template-columns: 350px auto  ;
+    grid-column-gap: 20px;
+    text-align: justify;
+
+}
+
+.tituloPacino{
+    font-size: 26px;
+}
+
+.tituloCazale{
+    font-size: 26px;
+}
+
+
+.tituloChris{
+    font-size: 26px;
+}
+
+
+.tituloCharles{
+    font-size: 26px;
+}
+
+
+.tituloJames{
+    font-size: 26px;
+}
+
+
+
+.actor01{
+    width: 100%;
+    border-radius: 15px;
+    border-image: auto;
+    
+}
+
+
+.actor01:hover {
+    filter: saturate(180%);
+    filter: opacity(.5);
+    transition:all .5s ease-in-out;
+
+}
+
+.actor02{
+    width: 100%;
+    border-radius: 15px;
+    border-image: auto;
+}
+.actor02:hover {
+    filter: saturate(180%);
+    filter: opacity(.5);
+    transition:all .5s ease-in-out;
+
+}
+
+.actor03{
+    width: 100%;
+    border-radius: 15px;
+    border-image: auto;
+}
+
+
+.actor03:hover {
+    filter: saturate(180%);
+    filter: opacity(.5);
+    transition:all .5s ease-in-out;
+
+}
+
+.actor04{
+    width: 100%;
+    border-radius: 15px;
+    border-image: auto; 
+}
+
+
+.actor04:hover {
+    filter: saturate(180%);
+    filter: opacity(.5);
+    transition:all .5s ease-in-out;
+
+}
+
+.actor05:hover {
+    filter: saturate(180%);
+    filter: opacity(.5);
+    transition:all .5s ease-in-out;
+
+}
+
+.actor05{
+    width: 100%;
+    border-radius: 15px;
+    border-image: auto;
+}
+
+.cuerpoDirector{
+    display: grid;
+    font-size: 20px;
+    grid-template-columns: 350px auto;
+    grid-column-gap: 25px;
+    text-align: justify;
+
+}
+
+
+.portadadirector{
+    width: 100%;
+    border-radius: 15px;
+    border-image: auto;
+
+}
+.portadadirector:hover{
+    filter: saturate(180%);
+    filter: opacity(.5);
+    transition:all .5s ease-in-out;
+}
+
+.portadadirector2{
+    width: 100%;
+    border-radius: 15px;
+    border-image: auto;
+}
+.portadadirector2:hover{
+    filter: saturate(180%);
+    filter: opacity(.5);
+    transition:all .5s ease-in-out;
+}
+
+.portadadirector3{
+    width: 100%;
+    border-radius: 15px;
+    border-image: auto;
+}
+.portadadirector3:hover{
+    filter: saturate(180%);
+    filter: opacity(.5);
+    transition:all .5s ease-in-out;
+}
+
+.portadadirector5{
+    width: 100%;
+    border-radius: 15px;
+    border-image: auto;
+}
+.portadadirector5:hover{
+    filter: saturate(180%);
+    filter: opacity(.5);
+    transition:all .5s ease-in-out;
+}
+.portadadirector4{
+    width: 100%;
+    border-radius: 15px;
+    border-image: auto;
+}
+.portadadirector4:hover{
+    filter: saturate(180%);
+    filter: opacity(.5);
+    transition:all .5s ease-in-out;
+}
+.portadadirector6{
+    width: 100%;
+    border-radius: 15px;
+    border-image: auto;
+}
+.portadadirector6:hover{
+    filter: saturate(180%);
+    filter: opacity(.5);
+    transition:all .5s ease-in-out;
+}
+
+.cuerpoRecomendaciones{
+    display: grid;
+    font-size: 20px;
+    grid-template-columns: 350px auto;
+    grid-column-gap: 25px;
+    text-align: justify;
+
+}
+
+.portadapelicula1{
+    width: 100%;
+    border-radius: 15px;
+    border-image: auto; 
+}
+.portadapelicula1:hover{
+    filter: saturate(180%);
+    filter: opacity(.5);
+    transition:all .5s ease-in-out;
+
+}
+
+
+
+.portadapelicula2{
+    width: 100%;
+    border-radius: 15px;
+    border-image: auto; 
+}
+.portadapelicula2:hover{
+    filter: saturate(180%);
+    filter: opacity(.5);
+    transition:all .5s ease-in-out;
+
+}
+
+
+
+
+.portadapelicula3{
+    width: 100%;
+    border-radius: 15px;
+    border-image: auto; 
+}
+.portadapelicula3:hover{
+    filter: saturate(180%);
+    filter: opacity(.5);
+    transition:all .5s ease-in-out;
+}
+
+
+
+
+.portadapelicula4{
+    width: 100%;
+    border-radius: 15px;
+    border-image: auto; 
+}
+.portadapelicula4:hover{
+    filter: saturate(180%);
+    filter: opacity(.5);
+    transition:all .5s ease-in-out;
+
+}
+
+
+.portadapelicula5{
+    width: 100%;
+    border-radius: 15px;
+    border-image: auto; 
+}
+.portadapelicula5:hover{
+    filter: saturate(180%);
+    filter: opacity(.5);
+    transition:all .5s ease-in-out;
+}
+
+
+
+
+
+.portadapelicula6{
+    width: 100%;
+    border-radius: 15px;
+    border-image: auto; 
+}
+.portadapelicula6:hover{
+    filter: saturate(180%);
+    filter: opacity(.5);
+    transition:all .5s ease-in-out;
+
+}
